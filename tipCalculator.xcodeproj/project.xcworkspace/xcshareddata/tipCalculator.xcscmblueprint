@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "339E8309CC7B3C7231B891336AD874F6ED4F3364",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "339E8309CC7B3C7231B891336AD874F6ED4F3364" : 9223372036854775807,
+    "7FDE23F96A73A8A3590FEB26A2460271049DC4F8" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2C0232CF-D584-4245-93E5-35A991957B84",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "339E8309CC7B3C7231B891336AD874F6ED4F3364" : "Tip%20Calculator\/",
+    "7FDE23F96A73A8A3590FEB26A2460271049DC4F8" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "tipCalculator",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "tipCalculator.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/aaron9johnson\/lighthouse",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "339E8309CC7B3C7231B891336AD874F6ED4F3364"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/aaron9johnson\/lighthouse.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7FDE23F96A73A8A3590FEB26A2460271049DC4F8"
+    }
+  ]
+}
